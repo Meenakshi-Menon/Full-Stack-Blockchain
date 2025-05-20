@@ -2,9 +2,6 @@
 
 A full-stack blockchain project built from the ground up, demonstrating how cryptocurrency systems function—from block creation and transaction validation to mining and peer synchronization.
 
-## 🌐 Live Demo
-Visit the deployed version of the app here:  
-👉 [DecentraChain Demo](https://protected-sierra-05982.herokuapp.com/)
 
 ---
 
@@ -32,13 +29,19 @@ The app features:
 - A modern web frontend using React
 - Deployment on Heroku for public access
 
+  ## Front End Interface
+<img width="661" alt="Screenshot 2025-05-20 at 2 01 02 PM" src="https://github.com/user-attachments/assets/4c46de8e-9a0e-4994-a756-d6f0556b08cc" />
+
+
 > Screenshot of the app UI:
-![Blockchain Screenshot](images/blockchain.png)
+> <img width="602" alt="Screenshot 2025-05-20 at 2 02 05 PM" src="https://github.com/user-attachments/assets/cb290ae0-3d4b-459e-b2bd-2ca2ef90c8b1" />
+<img width="598" alt="Screenshot 2025-05-20 at 2 02 26 PM" src="https://github.com/user-attachments/assets/14305749-728c-4198-9362-8f25a117517c" />
+<img width="579" alt="Screenshot 2025-05-20 at 2 02 50 PM" src="https://github.com/user-attachments/assets/ff983839-caf2-463e-a21f-6d549caf8537" />
+<img width="598" alt="Screenshot 2025-05-20 at 2 03 10 PM" src="https://github.com/user-attachments/assets/251e1e10-6c38-47b6-8f0c-51daf1e01aab" />
 
-> Visual explanation of blockchain flow:
-![Workflow](images/Blockchain-work.jpg)
 
----
+
+
 
 ## 🌟 Project Highlights
 
