@@ -1,4 +1,4 @@
-# 🔗 DecentraChain – Full Stack Blockchain App
+# Full Stack Blockchain App
 
 A full-stack blockchain project built from the ground up, demonstrating how cryptocurrency systems function—from block creation and transaction validation to mining and peer synchronization.
 
@@ -104,6 +104,11 @@ Here’s how to contribute:
 ## 🙏 Credits
 
 Special thanks to the open-source community whose content and repos inspired parts of this build:
+
+- ### Credits
+
+Original code inspired by [Krishna Kaushik](https://github.com/krishnakaushik25).
+
 
 - [David Katz – CryptoChain](https://github.com/15Dkatz/cryptochain)
 - [Awesome Blockchain Resources (GitHub)](https://github.com/yjjnls/awesome-blockchain#implementation-of-blockchain)
