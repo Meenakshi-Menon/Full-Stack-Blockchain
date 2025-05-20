@@ -33,7 +33,7 @@ The app features:
 <img width="661" alt="Screenshot 2025-05-20 at 2 01 02 PM" src="https://github.com/user-attachments/assets/4c46de8e-9a0e-4994-a756-d6f0556b08cc" />
 
 
-> Screenshot of the app UI:
+ ## > Screenshot of the app UI:
 > <img width="602" alt="Screenshot 2025-05-20 at 2 02 05 PM" src="https://github.com/user-attachments/assets/cb290ae0-3d4b-459e-b2bd-2ca2ef90c8b1" />
 <img width="598" alt="Screenshot 2025-05-20 at 2 02 26 PM" src="https://github.com/user-attachments/assets/14305749-728c-4198-9362-8f25a117517c" />
 <img width="579" alt="Screenshot 2025-05-20 at 2 02 50 PM" src="https://github.com/user-attachments/assets/ff983839-caf2-463e-a21f-6d549caf8537" />
@@ -107,10 +107,9 @@ Special thanks to the open-source community whose content and repos inspired par
 
 - ### Credits
 
-Original code inspired by [Krishna Kaushik](https://github.com/krishnakaushik25).
+Original code inspired by [Krishna Kaushik]
 
 
-- [David Katz – CryptoChain](https://github.com/15Dkatz/cryptochain)
 - [Awesome Blockchain Resources (GitHub)](https://github.com/yjjnls/awesome-blockchain#implementation-of-blockchain)
 - [YouTube: Blockchain from Scratch Series](https://www.youtube.com/watch?v=zVqczFZr124)
 
